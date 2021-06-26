@@ -1,0 +1,24 @@
+<DOCTYPE html>
+<html>
+<head>
+     <meta charset="utf-8" />
+     <title>Présentation d'OpenClassrooms !<h1>
+</head>
+
+<body>
+    <h1> bienvenue sur OpenClassrooms !</h1>
+
+    <p> bienvenue sur mon site : OpenClassrooms. <br />
+        Openclassrooms c'est quoi ?</p>
+
+    <h2>Des cours pour les debutants>/h2>
+
+    <p>Openclassrooms vous propose des cours (tutoriels) destinée aux débutants : aucune connaisance n'est requis pour lire ces cours !</p>
+
+    <p> Vous pourrez ainsi apprendre, sans rien y connaitre auparavant, a créer un site web, a programmer, a construire des modes en 3d !</p>
+
+    <h2>Une communauté active</h2>
+
+    <p>vous avez un probléme un élément du cours que vous ne comprenez pas? vous avez besoin d'aide pour crée votre site ?<br /> Rendez vous sur les forums ! Vous y découvriez que vous n'etes pas le seul dans ce cas et vous trouvzrez trés certainement quelqu'un qui vous aidera aimablement a résoudre votre problème.</p>
+   </body>
+   </html>
